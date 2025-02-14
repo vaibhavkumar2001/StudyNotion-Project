@@ -6,12 +6,23 @@
 .pnp.js
 .env
 Backend(project)/.env
+.env
+Backend(project)/.env
+
+
+.env
+Backend(project)/.env
 
 # testing
 /coverage
 
 # production
 /build
+.env
+Backend(project)/.env
+.env
+Backend(project)/.env
+
 .env
 Backend(project)/.env
 
