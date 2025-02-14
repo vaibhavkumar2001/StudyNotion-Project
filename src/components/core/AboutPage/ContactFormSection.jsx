@@ -1,0 +1,21 @@
+import React from 'react'
+import ContactUsForm from '../../ContactPage/ContactUsForm'
+
+
+const ContactFormSection = () => {
+  return (
+    <div className='mx-auto '>
+        <h1 className='text-[45px] font-semibold flex justify-center m'>
+            Get in Touch
+        </h1>
+        <p className='text-center text-[#838894] mb-20'>
+            We’d love to here for you, Please fill out this form.
+        </p>
+        <div>
+            <ContactUsForm/>
+        </div>
+    </div>
+  )
+}
+
+export default ContactFormSection
