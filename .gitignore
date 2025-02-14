@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 .env
-Backend/.env
+Backend(project)/.env
 
 # testing
 /coverage
@@ -13,7 +13,7 @@ Backend/.env
 # production
 /build
 .env
-Backend/.env
+Backend(project)/.env
 
 # misc
 .DS_Store
